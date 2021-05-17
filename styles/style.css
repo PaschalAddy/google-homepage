@@ -1,0 +1,17 @@
+style.css
+.class1 {
+
+}
+.class1 {
+    margin-left: 1090px;
+    margin-top: 17px;
+}
+#edit1, #edit2 {
+    color: black;
+    font-size: 13.4px;
+    font-family: sans-serif;
+    opacity: 0.85;
+}
+#edit2 {
+    margin-left: 13.5px;
+}
